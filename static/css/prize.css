@@ -1,0 +1,37 @@
+body{
+    color: white !important;
+}
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    z-index: -1;
+  }
+.whitetext{
+    color: white !important;
+}  
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  @media (max-width: 500px) {
+      .navbar{
+          justify-content: unset;
+      }
+    .dc{
+        padding-left: 4%;
+    }
+  
+}
+@media (min-width: 500px) {
+    .dc {
+        padding-left: 38%;
+    }
+}
