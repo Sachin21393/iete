@@ -1,5 +1,5 @@
 # D'cipher
-[Click here to view the project video]( https://tsecdcipher.glitch.me/landing )
+[Click here to view the website]( https://tsecdcipher.glitch.me/landing )
 
 ## Introduction
 D'cipher is a treasure hunt-based trivia game. The game contains 3 levels based on 3 different themes which are Halloween, sports, and sci-fi. Each question contains hints which pop up every 5 minutes. The first person to complete all the questions wins.
