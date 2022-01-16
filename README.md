@@ -1,6 +1,18 @@
-This is a project done by me and my friend as we both handled backend and front end of this website .This a gaming Website like a Treasure hunt and the tech stack which we have used is 
-node.s,express.js,mongodb,html,css,javascript.
-Short Summary:In this the user will have to login by using their email id and password and there will be three different level based on different theme and we have the implmented
-the level UI according to theme so there wil be hin coming after a time interval to solve th question 
-LINK:https://www-ietetsecdcipher-in.glitch.me/landing
-![alt text](file:///C:/Users/surender/Downloads/Screenshot%202021-12-06%20202653.png)
+# D'cipher
+[Click here to view the project video]( https://tsecdcipher.glitch.me/landing )
+
+## Introduction
+D'cipher is a treasure hunt-based trivia game. The game contains 3 levels based on 3 different themes which are Halloween, sports, and sci-fi. Each question contains hints which pop up every 5 minutes. The first person to complete all the questions wins.
+
+## Purpose
+The website was built for IETE-TSEC to conduct an event during the college fest called ELAN. The website handled more than 175+ users at a time.
+
+## Technologies Used
+Css, JavaScript, Node.js, MongoDB, Pug, and express.js
+
+## Setup
+1) Download the .zip file or copy the repository on github
+2) Open the folder
+3) Open the terminal
+4) Type node app.js / nodemon app.js
+5) Open localhost on your browser
